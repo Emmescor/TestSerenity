@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.accenture.testBuyingProducts.steps.StepDefinitions
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.accenture.testBuyingProducts.steps.StepDefinitions
-initializationError(com.accenture.testBuyingProducts.steps.StepDefinitions)  Time elapsed: 0 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.accenture.testBuyingProducts.steps.StepDefinitions
+initializationError(com.accenture.testBuyingProducts.steps.StepDefinitions)  Time elapsed: 0.001 sec  <<< ERROR!
 cucumber.runtime.CucumberException: 
 
 
