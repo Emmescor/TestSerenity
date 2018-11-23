@@ -1,0 +1,5 @@
+com\accenture\testBuyingProducts\pages\HomePage.class
+com\accenture\testBuyingProducts\ReadWriteFile.class
+com\accenture\testBuyingProducts\steps\StepDefinitions.class
+com\accenture\testBuyingProducts\DefinitionTestSuite.class
+com\accenture\testBuyingProducts\steps\serenity\EndUserSteps.class
